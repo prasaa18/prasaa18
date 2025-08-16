@@ -1,31 +1,36 @@
-# Hi, I'm Prasad Naik 👋
-Software developer with expertise in  **AWS**  **Devops**  **DevSecops** **Spring Boot**, **microservices**, and **Java**. Passionate about full-stack development and continuous learning.
+# Hi, I'm Prasad Naik 👋  
+🚀 Software Engineer | ☁️ AWS | 🔐 DevSecOps | ⚙️ DevOps | 💻 Backend (Java + Spring Boot + Microservices)  
+
+Passionate about building **secure, scalable, and production-ready systems**.  
+Always exploring cloud-native solutions, automation, and security-first development.  
 
 ---
 
-##  Stack & Tools
-- Java | Spring Boot | Microservices |Devops
-- Docker | Kubernetes | AWS | Devsecops
+## 🛠️ Tech Stack & Tools
+- **Backend:** Java, Spring Boot, Microservices  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins  
+- **Security:** DevSecOps practices, SAST/DAST, SonarQube, OWASP  
+- **Other:** GitHub Actions, CI/CD, Linux, Shell scripting  
 
 ---
 
-##  Pinned Projects
-- [Devops](https://github.com/prasaa18/Devops-vprofile) – Example Devops project
-- [AWS](https://github.com/prasaa18/iac-vprofile) – Example Aws project
-- [Devops learnings](https://github.com/prasaa18/Devopslearnin) larnings
-- [bookmangemt-springboot-webapp](https://github.com/prasaa18/bookmangemt-springboot-webapp) – Spring Boot web app for book management
-- [cafemanagement](https://github.com/prasaa18/cafemanagement) – Café management system
-- [java-programs](https://github.com/prasaa18/java-programs) – Java practice solutions
-- [springbootmicroservices](https://github.com/prasaa18/springbootmicroservices) – Microservices architecture demos
+## 📌 Featured Projects
+- [**DevOps vProfile**](https://github.com/prasaa18/Devops-vprofile) – Full-stack CI/CD DevOps pipeline project  
+- [**AWS IaC vProfile**](https://github.com/prasaa18/iac-vprofile) – Infrastructure as Code on AWS  
+- [**DevOps Learnings**](https://github.com/prasaa18/Devopslearnin) – Notes & labs on DevOps tools and practices  
+- [**Book Management App**](https://github.com/prasaa18/bookmangemt-springboot-webapp) – Spring Boot web app for book management  
+- [**Cafe Management System**](https://github.com/prasaa18/cafemanagement) – Backend system for café management  
+- [**Spring Boot Microservices**](https://github.com/prasaa18/springbootmicroservices) – Microservices architecture demos  
+- [**Java Programs**](https://github.com/prasaa18/java-programs) – Core Java practice & problem-solving  
 
 ---
 
-##  GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasaa18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prasaa18&layout=compact&theme=radical)
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasaa18&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prasaa18&layout=compact&theme=radical)  
 
 ---
 
-##  Let's Connect
-[LinkedIn](https://www.linkedin.com/in/prasad-naik-5340661ab) • [Email (optional)](mailto:your-email@example.com)
-
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-naik-5340661ab)  
+📧 Email: *add-your-email-here*  
