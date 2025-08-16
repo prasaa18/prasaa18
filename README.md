@@ -33,4 +33,5 @@ Always exploring cloud-native solutions, automation, and security-first developm
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-naik-5340661ab)  
-📧 Email: *add-your-email-here*  
+📧 Email: prasadsnaik18@gmail.com
+
